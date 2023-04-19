@@ -1,0 +1,43 @@
+header {
+  background: #99592a;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 40px;
+  left: -100px;
+}
+
+.dropdown-toggle {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 17px;
+}
+
+h6 {
+  margin-bottom: 0;
+  font-size: 24px;
+}
+
+.main_logo {
+  width: 250px;
+}
+
+.brown_button {
+  background-color: #68482f;
+  border-color: #68482f;
+  color: white;
+}
+
+.brown_button:hover {
+  color: black;
+  background-color: rgba(77, 51, 31, 0.7);
+}

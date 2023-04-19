@@ -1,0 +1,21 @@
+.side_bar {
+  background-color: #b18459;
+  color: white;
+}
+
+h2 {
+  color: #4d331f;
+}
+
+.category {
+  font-size: larger;
+  font-weight: 500;
+}
+
+.categories_ul {
+  border-top: 1px solid black;
+}
+
+.category:hover {
+  color: #4d331f;
+}
